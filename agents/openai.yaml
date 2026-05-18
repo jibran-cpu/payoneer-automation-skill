@@ -1,0 +1,4 @@
+interface:
+  display_name: "Payoneer Automation"
+  short_description: "Plan and document Payoneer CSV automation workflows."
+  default_prompt: "Use this skill to define or implement a Payoneer automation workflow from raw CSV exports through validation, processing, currency translation, working schedules, final output summaries, and exception reporting."
